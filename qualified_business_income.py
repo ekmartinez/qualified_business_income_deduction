@@ -51,6 +51,7 @@ class Qbi:
         return min(tentative_qbi, taxable_income_over_capital_gains)
 
     def sstb_single_between(self):
+        #TODO: Compute for sstb
         pass
     
     def sstb_single_above(self):
